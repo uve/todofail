@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/focus/static/css/main.12310bf3.chunk.css",
+    "main.js": "/focus/static/js/main.08148071.chunk.js",
+    "main.js.map": "/focus/static/js/main.08148071.chunk.js.map",
+    "runtime-main.js": "/focus/static/js/runtime-main.352d895e.js",
+    "runtime-main.js.map": "/focus/static/js/runtime-main.352d895e.js.map",
+    "static/css/2.27c67e9f.chunk.css": "/focus/static/css/2.27c67e9f.chunk.css",
+    "static/js/2.d5bfcac9.chunk.js": "/focus/static/js/2.d5bfcac9.chunk.js",
+    "static/js/2.d5bfcac9.chunk.js.map": "/focus/static/js/2.d5bfcac9.chunk.js.map",
+    "static/js/3.2b8e8913.chunk.js": "/focus/static/js/3.2b8e8913.chunk.js",
+    "static/js/3.2b8e8913.chunk.js.map": "/focus/static/js/3.2b8e8913.chunk.js.map",
+    "index.html": "/focus/index.html",
+    "static/css/2.27c67e9f.chunk.css.map": "/focus/static/css/2.27c67e9f.chunk.css.map",
+    "static/css/main.12310bf3.chunk.css.map": "/focus/static/css/main.12310bf3.chunk.css.map",
+    "static/js/2.d5bfcac9.chunk.js.LICENSE.txt": "/focus/static/js/2.d5bfcac9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.352d895e.js",
+    "static/css/2.27c67e9f.chunk.css",
+    "static/js/2.d5bfcac9.chunk.js",
+    "static/css/main.12310bf3.chunk.css",
+    "static/js/main.08148071.chunk.js"
+  ]
+}
